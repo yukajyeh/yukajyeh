@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ... Vue.js, TypeScript
 - 💬 Ask me about ... wine, ramen, Amsterdam ... anything really 
-- 📫 How to reach me: ... send me a carrier pigeon 🐦
+- 📫 How to reach me: ... send a carrier pigeon 🐦
 - 😄 Pronouns: ... She/Her ; but my current D&D campaign character is a They/Them
 - ⚡ Fun fact: ... I am very active on Duolingo, and proud of it
 
